@@ -1,22 +1,24 @@
-# Week 4 Assignment
+# Week 5 Assignment
+
+## Deeadline is extended to Sunday, 9/27, 6:00 PM due to the FAA services being down.
 
 Submit your completed assignment (**.ipynb** files) onto Moodle for peer assessment.
 
 ## Announcement
 
-An important announcement. Starting week 4, you must submit your assignment in two places:
+You must submit your assignment in two places:
 
-1. Week XX Assignment (Peer Assessment)
+1. Week 5 Assignment (Peer Assessment)
 
-2. Week XX Assignment (Instructors)
+2. Week 5 Assignment (Instructors)
 
 One is just for the peer assessment, and the other one is just for instructor's grades.
 
-## Submission deadline: Saturday, September 19th, 2015, 6:00 PM
+## Submission deadline: Saturday, September 26th, 2015, 6:00 PM
 
-## Problem 4.1. See template: [Simple Stats](stats.ipynb)
+## Problem 5.1. See template: [Reading a CSV file](fileio.ipynb)
 
-## Problem 4.2. See template: [Unix data processing using IPython](unix_ipython.ipynb)
+## Problem 5.2. See template: [Requests](requests.ipynb)
 
 Don't forget that you have to submit in **two** places, one for peer assessment and the other one for instructor's grades.
 

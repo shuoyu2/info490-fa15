@@ -1,30 +1,31 @@
 # Week 6 Lesson 2 #
-## Data Manipulation Analysis ##
+## Python Regular Expressions ##
 
-In this lesson, you will learn more advanced functionality within the Pandas library. Specifically you will learn about combining data from different Pandas DataFrames, efficiently selecting data from Pandas DataFrames, and how to use Pandas to clean data before subsequent analysis.
+In this lesson, you will learn about Python regular expressions and how to use the ```re``` library in Python. 
 
 ###Objectives ###
 By the end of this lesson, you will be able to:
 
-- Understand how to quickly filter data in a Pandas DataFrame
-- Understand how use the Pandas GroupBy and Aggregate functionality.
-- Understand how combine data from different Pandas data structures
-- Understand how to manipulate character data by using Pandas
-- Understand how to clean up data sources by using Pandas
+- Understand how to use the ```sub, search, and compile``` functions within the re library.
+- Understand how to structure verbose regular expressions.
+- Understand how to effectively specify the position and structure of the string you are searching for by using ```\b, ^, $, \d, \D, ?, *, +, {n,m}, (a|b)```, etc.
 
 ### Time Estimate ###
 
-Approximately 3 hours.
+Approximately 2 hours.
 
 ### Readings ####
 
-- [Panda Tutorial](https://github.com/jvns/pandas-cookbook), Chapters 3-7
+- Dive into Python3 [Regular Expressions (Chapter 5)](http://www.diveintopython3.net/regular-expressions.html).
 
 #### *Optional Additional Readings*####
 
-- [Another IPython Notebook using Pandas](http://nbviewer.ipython.org/github/jvns/talks/blob/master/pydatanyc2013/PyData%20NYC%202013%20tutorial.ipynb)  (but do not pollute namespace with %pylab inline)
+- Google Developer [Python Regular
+Expressions](https://developers.google.com/edu/python/regular-
+expressions)  (Note this was written for Python2, so be aware of the
+differences).
 
 
 ### Assessment ###
 
-When you have completed and worked through the above readings, please take the Week 6 Lesson 2 Assessment.
+When you have completed and worked through the above readings, please take the [Week 6 Lesson 2 Assessment](https://learn.illinois.edu/mod/quiz/view.php?id=1095542).

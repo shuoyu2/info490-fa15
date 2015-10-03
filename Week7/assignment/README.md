@@ -1,22 +1,22 @@
-# Week 4 Assignment
+# Week 7 Assignment
 
-Submit your completed assignment (**.ipynb** files) onto Moodle for peer assessment.
+You must use the provided templates. Submit your completed assignment (**.ipynb** files) onto Moodle.
 
 ## Announcement
 
-An important announcement. Starting week 4, you must submit your assignment in two places:
+You must submit your assignment in two places:
 
-1. Week XX Assignment (Peer Assessment)
+1. Week 7 Assignment (Peer Assessment)
 
-2. Week XX Assignment (Instructors)
+2. Week 7 Assignment (Instructors)
 
 One is just for the peer assessment, and the other one is just for instructor's grades.
 
-## Submission deadline: Saturday, September 19th, 2015, 6:00 PM
+## Submission deadline: Saturday, October 10th, 2015, 6:00 PM
 
-## Problem 4.1. See template: [Simple Stats](stats.ipynb)
+## Problem 7.1. Use template: [Trigonometric Functions](trig.ipynb)
 
-## Problem 4.2. See template: [Unix data processing using IPython](unix_ipython.ipynb)
+## Problem 7.2. Use template: [Distance vs. Flight Time](distance_time.ipynb)
 
 Don't forget that you have to submit in **two** places, one for peer assessment and the other one for instructor's grades.
 

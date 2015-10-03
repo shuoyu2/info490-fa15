@@ -1,28 +1,35 @@
 # Week 7 Lesson 1 #
-## Rules of Probability Theory ##
+## Introduction to Data Visualization ##
 
-In this lesson, you will learn the basic rules of probability theory and how they lead naturally to Bayesian statistical analysis. You will learn about the likelihood, the prior, and the posterior, and how to use these concepts to perform estimation within a Bayesian context.
+In this lesson, you will learn about the art of making great
+visualization. While this might seem out of place, since we haven't
+actually shown how to make any visualizations, I want to start this week
+by introducing you to the ideas and results of those considered masters
+in the art of information visualization. 
 
 
 ###Objectives ###
 By the end of this lesson, you will be able to:
 
-- Understand the basic rules of probability.
-- Know how to effectively apply Bayes theorem.
-- Understand how to perform Bayesian estimation.
+- Understand the power of visualizations in conveying information.
+- Understand the importance of aesthetics in communicating data.
+- Understand the perils of presentation slides to communicate technical information.
 
 ### Time Estimate ###
 
-Approximately 3 hours.
+Approximately 2 hours.
 
 ### Readings ####
 
-- [Think Stats](http://www.greenteapress.com/thinkstats/), Chapters 5
-- [Think Bayes](http://www.greenteapress.com/thinkbayes/index.html), Chapters 1-3
+- The Beauty of [Data Visualizations](http://www.ted.com/talks/david_mccandless_the_beauty_of_data_visualization)
+
+- On the [Perils of Powerpoint](http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0001yB)
+
+- [Visualizing](http://www.ted.com/talks/hans_rosling_shows_the_best_stats_you_ve_ever_seen) Statistical Information
 
 #### *Optional Additional Readings*####
 
-- [Think Bayes](http://www.greenteapress.com/thinkbayes/index.html) Chapter 5
+- The many wonderful articles at [Flowing Data](http://flowingdata.com)
 
 
 ### Assessment ###

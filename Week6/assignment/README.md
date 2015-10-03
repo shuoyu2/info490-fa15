@@ -1,22 +1,22 @@
-# Week 4 Assignment
+# Week 6 Assignment
 
-Submit your completed assignment (**.ipynb** files) onto Moodle for peer assessment.
+Submit your completed assignment (**.ipynb** files) onto Moodle.
 
 ## Announcement
 
-An important announcement. Starting week 4, you must submit your assignment in two places:
+You must submit your assignment in two places:
 
-1. Week XX Assignment (Peer Assessment)
+1. Week 6 Assignment (Peer Assessment)
 
-2. Week XX Assignment (Instructors)
+2. Week 6 Assignment (Instructors)
 
 One is just for the peer assessment, and the other one is just for instructor's grades.
 
-## Submission deadline: Saturday, September 19th, 2015, 6:00 PM
+## Submission deadline: Saturday, October 3rd, 2015, 6:00 PM
 
-## Problem 4.1. See template: [Simple Stats](stats.ipynb)
+## Problem 6.1. See template: [Flights Data](flights.ipynb)
 
-## Problem 4.2. See template: [Unix data processing using IPython](unix_ipython.ipynb)
+## Problem 6.2. See template: [Twitter](twitter.ipynb)
 
 Don't forget that you have to submit in **two** places, one for peer assessment and the other one for instructor's grades.
 
